@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Social, Political, and Economic Development
 
 ## 2.1 Unit I: Social Development (5 hours)
@@ -460,6 +459,7 @@ Gandhi’s vision of development centered around self-reliance (Swaraj) and loca
 
 ---
 
-### Summary
-This detailed textbook covers the evolution of social, political, and economic
->>>>>>> 5abb6e1e3ba29cf4f31a061112d55f9ca72e8763
+
+
+
+# END OF NOTES
